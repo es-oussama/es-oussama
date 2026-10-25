@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="248" viewBox="0 0 960 248" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">OE / AI &amp; Data Science</title>
+  <desc id="desc">Oussama Essalhi's original OE monogram and AI and Data Science identity.</desc>
+  <rect width="960" height="248" rx="10" fill="#f6f8f7"/>
+  <g transform="translate(40 34) scale(2.8)" stroke="#285b42" stroke-width="4.6" stroke-linecap="square" stroke-linejoin="round">
+    <path d="M32 22C32 15.4 26.6 10 20 10S8 15.4 8 22V42C8 48.6 13.4 54 20 54S32 48.6 32 42V22Z"/>
+    <path d="M60 10H42V54H60M32 32H56"/>
+    <circle cx="60" cy="10" r="3.1" fill="#285b42" stroke="none"/>
+    <circle cx="56" cy="32" r="3.1" fill="#285b42" stroke="none"/>
+  </g>
+  <path d="M282 52V196" stroke="#d8e0da" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif" letter-spacing="-3">
+    <text x="330" y="107" fill="#19231e" font-size="78" font-weight="400">AI &amp; Data</text>
+    <text x="327" y="195" fill="#285b42" font-size="94" font-weight="600">Science</text>
+  </g>
+</svg>
