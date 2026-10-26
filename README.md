@@ -1,9 +1,11 @@
 # Hi, I'm Oussama Essalhi
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/cover-dark-v2.webp">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/cover-light-v2.webp">
-  <img alt="AI &amp; Data Science. Oussama Essalhi. Glass layers and a flowing ribbon form an abstract data sculpture." src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/cover-light-v2.webp" width="960">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/network-dark-static-v3.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/network-light-static-v3.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/network-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/network-light-v3.svg">
+  <img alt="OE. AI &amp; Data Science. A short conceptual neural-network animation, with a static reduced-motion version." src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/network-light-v3.svg" width="960">
 </picture>
 
 **AI & Data Science Engineering Student @ EMSI Rabat**  
@@ -28,16 +30,16 @@ I am interested in building AI applications from experimentation to deployment, 
 <p>
 <a href="https://essalhi-oussama.tech/en/projects/brainseg-ai">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/cards/brainseg-ai-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/cards/brainseg-ai-light.svg">
-  <img alt="BrainSeg AI" src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/cards/brainseg-ai-light.svg" width="400">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/brainseg-ai-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/brainseg-ai-light-v3.svg">
+  <img alt="BrainSeg AI" src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/brainseg-ai-light-v3.svg" width="400">
 </picture>
 </a>
 <a href="https://essalhi-oussama.tech/en/projects/pneumoscan-ai">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/cards/pneumoscan-ai-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/cards/pneumoscan-ai-light.svg">
-  <img alt="PneumoScan AI" src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/cards/pneumoscan-ai-light.svg" width="400">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/pneumoscan-ai-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/pneumoscan-ai-light-v3.svg">
+  <img alt="PneumoScan AI" src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/pneumoscan-ai-light-v3.svg" width="400">
 </picture>
 </a>
 </p>
@@ -58,16 +60,16 @@ Chest X-ray classification with MobileNetV2. Its **16-image validation subset** 
 <p>
 <a href="https://essalhi-oussama.tech/en/projects/hermes-blueteam">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/cards/hermes-blueteam-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/cards/hermes-blueteam-light.svg">
-  <img alt="HERMES BlueTeam" src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/cards/hermes-blueteam-light.svg" width="400">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/hermes-blueteam-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/hermes-blueteam-light-v3.svg">
+  <img alt="HERMES BlueTeam" src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/hermes-blueteam-light-v3.svg" width="400">
 </picture>
 </a>
 <a href="https://github.com/es-oussama/PrimaryTeachingSMA">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/cards/primary-teaching-sma-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/cards/primary-teaching-sma-light.svg">
-  <img alt="PrimaryTeachingSMA" src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/cards/primary-teaching-sma-light.svg" width="400">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/primary-teaching-sma-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/primary-teaching-sma-light-v3.svg">
+  <img alt="PrimaryTeachingSMA" src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/primary-teaching-sma-light-v3.svg" width="400">
 </picture>
 </a>
 </p>
@@ -88,16 +90,16 @@ Educational activity generation with CrewAI, LangChain and ChromaDB RAG. Streaml
 <p>
 <a href="https://essalhi-oussama.tech/en/projects/fraud-detection-mlops">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/cards/fraud-detection-mlops-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/cards/fraud-detection-mlops-light.svg">
-  <img alt="Fraud Detection MLOps" src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/cards/fraud-detection-mlops-light.svg" width="400">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/fraud-detection-mlops-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/fraud-detection-mlops-light-v3.svg">
+  <img alt="Fraud Detection MLOps" src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/fraud-detection-mlops-light-v3.svg" width="400">
 </picture>
 </a>
 <a href="https://essalhi-oussama.tech/en/projects/spark-big-data">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/cards/spark-big-data-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/cards/spark-big-data-light.svg">
-  <img alt="Spark / Big Data" src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/cards/spark-big-data-light.svg" width="400">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/spark-big-data-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/spark-big-data-light-v3.svg">
+  <img alt="Spark / Big Data" src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/spark-big-data-light-v3.svg" width="400">
 </picture>
 </a>
 </p>
