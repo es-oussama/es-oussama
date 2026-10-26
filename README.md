@@ -1,27 +1,27 @@
 # Hi, I'm Oussama Essalhi
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/network-dark-static-v3.svg">
-  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/network-light-static-v3.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/network-dark-v3.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/network-light-v3.svg">
-  <img alt="OE. AI &amp; Data Science. A short conceptual neural-network animation, with a static reduced-motion version." src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/network-light-v3.svg" width="960">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/network-dark-static-v4.svg">
+  <source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/network-light-static-v4.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/network-dark-v4.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/network-light-v4.svg">
+  <img alt="OE. AI &amp; Data Science. A short conceptual neural-network animation, with a static reduced-motion version." src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/network-light-v4.svg" width="960">
 </picture>
 
-**AI & Data Science Engineering Student @ EMSI Rabat**  
-5th year / Expected graduation **2027**
+**5th-year AI & Data Science Engineering Student**  
+EMSI Rabat / Expected graduation: **2027**
 
-Building intelligent systems through projects in Machine Learning, Generative AI, Computer Vision, Big Data and MLOps.
+Focused on computer vision, multi-agent AI and reproducible machine learning workflows.
 
-> **Seeking a 2027 End-of-Studies Internship (PFE) in AI/Data.**
+> **Seeking a 2027 AI/Data end-of-studies internship (PFE).**
 
 **[Explore my portfolio →](https://essalhi-oussama.tech/)**
 
 ## About
 
-I am a 5th-year engineering student at EMSI Rabat, Morocco, specializing in AI & Data Science. My experience combines an AI/Data internship with academic and personal projects.
+My background combines an AI/Data internship at REDAL with academic and personal projects in model experimentation, LLM integration and data processing.
 
-I am interested in building AI applications from experimentation to deployment, with clear evaluation and traceable results.
+I am interested in taking AI applications from experiments to deployment, with clear evaluation and traceable results.
 
 ## Featured projects
 
@@ -30,16 +30,16 @@ I am interested in building AI applications from experimentation to deployment, 
 <p>
 <a href="https://essalhi-oussama.tech/en/projects/brainseg-ai">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/brainseg-ai-dark-v3.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/brainseg-ai-light-v3.svg">
-  <img alt="BrainSeg AI" src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/brainseg-ai-light-v3.svg" width="400">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/brainseg-ai-dark-v4.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/brainseg-ai-light-v4.svg">
+  <img alt="BrainSeg AI" src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/brainseg-ai-light-v4.svg" width="400">
 </picture>
 </a>
 <a href="https://essalhi-oussama.tech/en/projects/pneumoscan-ai">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/pneumoscan-ai-dark-v3.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/pneumoscan-ai-light-v3.svg">
-  <img alt="PneumoScan AI" src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/pneumoscan-ai-light-v3.svg" width="400">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/pneumoscan-ai-dark-v4.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/pneumoscan-ai-light-v4.svg">
+  <img alt="PneumoScan AI" src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/pneumoscan-ai-light-v4.svg" width="400">
 </picture>
 </a>
 </p>
@@ -48,10 +48,10 @@ I am interested in building AI applications from experimentation to deployment, 
 <summary>Evaluation notes: BrainSeg AI &amp; PneumoScan AI</summary>
 
 **[BrainSeg AI](https://essalhi-oussama.tech/en/projects/brainseg-ai)**  
-Brain tumor segmentation with PyTorch and Attention U-Net on BraTS 2020. Reported mean Dice: **0.8180** across WT/TC/ET at epoch 22. The 369 patients describe the dataset, not a test set.
+Brain tumor segmentation using a PyTorch Attention U-Net on BraTS 2020. Project-reported mean Dice: **0.8180** across WT/TC/ET at epoch 22. The 369 patients refer to the dataset, not the test-set size.
 
 **[PneumoScan AI](https://essalhi-oussama.tech/en/projects/pneumoscan-ai)**  
-Chest X-ray classification with MobileNetV2. Its **16-image validation subset** limits generalization. Both medical projects are learning/research work without clinical validation.
+An educational chest X-ray classification experiment using MobileNetV2. Its **16-image validation subset** is too small to establish reliable generalization. Neither medical project has clinical validation.
 
 </details>
 
@@ -60,16 +60,16 @@ Chest X-ray classification with MobileNetV2. Its **16-image validation subset** 
 <p>
 <a href="https://essalhi-oussama.tech/en/projects/hermes-blueteam">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/hermes-blueteam-dark-v3.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/hermes-blueteam-light-v3.svg">
-  <img alt="HERMES BlueTeam" src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/hermes-blueteam-light-v3.svg" width="400">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/hermes-blueteam-dark-v4.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/hermes-blueteam-light-v4.svg">
+  <img alt="HERMES BlueTeam" src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/hermes-blueteam-light-v4.svg" width="400">
 </picture>
 </a>
 <a href="https://github.com/es-oussama/PrimaryTeachingSMA">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/primary-teaching-sma-dark-v3.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/primary-teaching-sma-light-v3.svg">
-  <img alt="PrimaryTeachingSMA" src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/primary-teaching-sma-light-v3.svg" width="400">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/primary-teaching-sma-dark-v4.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/primary-teaching-sma-light-v4.svg">
+  <img alt="PrimaryTeachingSMA" src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/primary-teaching-sma-light-v4.svg" width="400">
 </picture>
 </a>
 </p>
@@ -78,10 +78,10 @@ Chest X-ray classification with MobileNetV2. Its **16-image validation subset** 
 <summary>Implementation: HERMES &amp; PrimaryTeachingSMA</summary>
 
 **[HERMES BlueTeam](https://essalhi-oussama.tech/en/projects/hermes-blueteam)**  
-Developed during my **REDAL internship**: LLM-assisted structured-event analysis, MITRE mapping and Suricata integration. Local Docker/Linux execution; 9 operational agents, 2 parked skills and 17 reported functional tests.
+A local multi-agent AI platform developed during my **REDAL internship**, combining LLM-assisted event analysis, MITRE mapping and Suricata integration. Runs with Docker on Linux. The project reports 9 operational agents, 2 parked skills and 17 functional tests.
 
 **[PrimaryTeachingSMA](https://github.com/es-oussama/PrimaryTeachingSMA)**  
-Educational activity generation with CrewAI, LangChain and ChromaDB RAG. Streamlit interface and printable PDF output. **[Read the case study →](https://essalhi-oussama.tech/en/projects/primary-teaching-sma)**
+A teaching assistant that uses CrewAI, LangChain and ChromaDB RAG to generate educational activities, with a Streamlit interface and printable PDF output. **[Read the case study →](https://essalhi-oussama.tech/en/projects/primary-teaching-sma)**
 
 </details>
 
@@ -90,16 +90,16 @@ Educational activity generation with CrewAI, LangChain and ChromaDB RAG. Streaml
 <p>
 <a href="https://essalhi-oussama.tech/en/projects/fraud-detection-mlops">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/fraud-detection-mlops-dark-v3.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/fraud-detection-mlops-light-v3.svg">
-  <img alt="Fraud Detection MLOps" src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/fraud-detection-mlops-light-v3.svg" width="400">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/fraud-detection-mlops-dark-v4.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/fraud-detection-mlops-light-v4.svg">
+  <img alt="Fraud Detection MLOps" src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/fraud-detection-mlops-light-v4.svg" width="400">
 </picture>
 </a>
 <a href="https://essalhi-oussama.tech/en/projects/spark-big-data">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/spark-big-data-dark-v3.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/spark-big-data-light-v3.svg">
-  <img alt="Spark / Big Data" src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/spark-big-data-light-v3.svg" width="400">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/spark-big-data-dark-v4.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/spark-big-data-light-v4.svg">
+  <img alt="Spark / Big Data" src="https://raw.githubusercontent.com/es-oussama/es-oussama/main/assets/neural/spark-big-data-light-v4.svg" width="400">
 </picture>
 </a>
 </p>
@@ -108,17 +108,17 @@ Educational activity generation with CrewAI, LangChain and ChromaDB RAG. Streaml
 <summary>Project scope: MLOps &amp; Big Data</summary>
 
 **[Fraud Detection MLOps](https://essalhi-oussama.tech/en/projects/fraud-detection-mlops)**  
-Random Forest experiments on **synthetic transactions**, with MLflow tracking/model registry and DVC data versioning. An educational ML lifecycle project.
+An educational ML lifecycle project using Random Forest, MLflow and DVC. Experiments run on **synthetic transactions**, with experiment tracking, data versioning and a model registry.
 
 **[Spark / Big Data](https://essalhi-oussama.tech/en/projects/spark-big-data)**  
-Academic PySpark work with RDDs, DataFrames, transformations, actions and partitions, alongside Hadoop concepts.
+Academic PySpark exercises covering RDDs, DataFrames, transformations, actions and partitions, alongside Hadoop concepts.
 
 </details>
 
 <details>
 <summary><strong>Additional public code: Pneumonia-Detection</strong></summary>
 
-[Pneumonia-Detection](https://github.com/es-oussama/Pneumonia-Detection) documents a separate TensorFlow/Keras custom CNN experiment and its stored evaluation. Its architecture and results are distinct from the MobileNetV2 PneumoScan case study.
+[Pneumonia-Detection](https://github.com/es-oussama/Pneumonia-Detection) documents a separate TensorFlow/Keras custom CNN experiment and its stored evaluation results. Its architecture and results are distinct from the MobileNetV2 PneumoScan project.
 
 </details>
 
@@ -126,15 +126,15 @@ Academic PySpark work with RDDs, DataFrames, transformations, actions and partit
 
 **REDAL / AI & Data Intern**  
 2026 · 1.5 months  
-Designed and developed HERMES BlueTeam, a local multi-agent platform with LLM-assisted event analysis.
+Designed and developed HERMES BlueTeam for LLM-assisted event analysis and local multi-agent orchestration.
 
 **TRAGEM / Full Stack Developer Intern**  
 2025 · 1 month  
-Worked on customer, order and delivery management workflows and chatbot integration.
+Developed a mini ERP for customer management, order tracking and delivery traceability, with chatbot integration.
 
 **Trésorerie Générale du Royaume / Developer Intern**  
 2024 · 1 month  
-Developed litigation-file tracking, regulatory deadline management and automatic notifications.
+Developed a litigation management application for tracking legal files and regulatory deadlines, with automatic notifications.
 
 ## Technical stack
 
@@ -147,14 +147,14 @@ Developed litigation-file tracking, regulatory deadline management and automatic
 | **MLOps** | MLflow, DVC, Docker, Git, Linux |
 | **Apps** | React, Node.js, REST APIs |
 
-These tools reflect project experience and coursework.
+Technologies used in projects or studied in coursework.
 
 ## Currently learning
 
-My current studies cover Generative AI, NLP, Computer Vision, Big Data decision systems, intelligent application development and AI application deployment. I am also developing my TypeScript skills and Hadoop fundamentals.
+Current coursework covers Generative AI and NLP, Computer Vision, Big Data decision systems, intelligent application development and AI deployment. I am also strengthening my TypeScript skills and Hadoop fundamentals.
 
 ## Contact
 
-**[LinkedIn](https://www.linkedin.com/in/essalhi-oussama-549b3b355/)** / **[Email](mailto:essalhii.oussama@gmail.com)** / **[GitHub](https://github.com/es-oussama)**
+**[LinkedIn](https://www.linkedin.com/in/essalhi-oussama-549b3b355/)** / **[GitHub](https://github.com/es-oussama)**
 
-essalhii.oussama@gmail.com
+[essalhii.oussama@gmail.com](mailto:essalhii.oussama@gmail.com)
